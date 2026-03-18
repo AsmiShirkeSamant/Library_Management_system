@@ -23,7 +23,7 @@ The code utilizes `scanf(" %[^\n]", ...)` to handle strings. This is a crucial "
 
 ---
 
-## 🔄 System Workflow
+## System Workflow
 
 The application follows a linear, menu-driven lifecycle:
 
